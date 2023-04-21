@@ -13,3 +13,5 @@ addons:
 script:
   - python hello.py
   - pip install -r requirements.txt 
+
+# sbom
